@@ -13,7 +13,7 @@ Para utilizar o projeto, é necessário ter o PostgreSQL instalado e configurado
 Para executar o projeto, basta rodar a classe "ParkingLotApplication" como uma aplicação Java. Depois, é possível acessar as funcionalidades através de uma API REST, utilizando ferramentas como o Postman.
 
 #Agradecimentos
-Este projeto foi disponibilizado em uma explendida aula ministrada por Michele de Brito. E gostaria de Agradecer imensamente a ela por compartilhar seu conhecimento e contribuir para a formação de novos profissionais da área de tecnologia.
+Este projeto foi disponibilizado em uma esplêndida aula ministrada por Michele de Brito. E gostaria de Agradecer imensamente a ela por compartilhar seu conhecimento e contribuir para a formação de novos profissionais da área de tecnologia.
 
 
 
